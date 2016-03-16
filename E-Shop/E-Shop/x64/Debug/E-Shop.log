@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\alex\documents\c++\e-shop\e-shop\source.cpp(68): warning C4101: 'offset': unreferenced local variable
+  E-Shop.vcxproj -> D:\Alex\Documents\C++\E-Shop\x64\Debug\E-Shop.exe
+  E-Shop.vcxproj -> D:\Alex\Documents\C++\E-Shop\x64\Debug\E-Shop.pdb (Partial PDB)
